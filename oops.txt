@@ -1,0 +1,41 @@
+1. How to create an object in java`
+There are several ways by which we can create objects of a class in java as we all know a class proviIes
+the blueprint for objects, you create an object froD a class. This concept is unIer-rateI anI soDetiDes proves
+to be beneficial as this concept is bypasseI by Dany prograDDers anI soDetiDes even Io ask froD interview
+perceptive.
+M<ch9zs:
+There are Dany Iifferent ways to create objects in Java. the help of prograDs to illustrate internal working by
+which we can create objects in Javay
+Cy Using new keyworH
+8y Using new instanc^
+y Using clone(5 DethoH
+4y Using Ieserializatio;
+by Using newInstance(5 DethoI of Constructor clasY
+Let us Iiscuss theD one by one anI iDpleDent the saDe by appenIing a clean java prograD for the saDe.
+M0thod 1: Using n0w k0yword
+Using the new keyworI in java is the Dost basic way to create an object. This is the Dost coDDon way to
+create an object in java. AlDost 99% of objects are createI in this way. y using this DethoI we can call any
+constructor we want to call no arguDent or paraDeterizeI constructors5.
+2. What is the use of a new keyword in Java`
+The "new" keyworI in Java is useI to create an instance of an object. It allocates DeDory to an object anI
+returns a reference to the object createI. It is useI with a constructor to create an object.
+3. What are the different types of variables in Java_
+Static VariableX
+/ Instance VariableX
+/ Local Variabl^
+/
+4. What is the difference between Instance variables and Local variables`
+Ans:
+
+Ans:
+
+
+5. In which area memory is allocated for instance variable and local variable?
+
+Instance variables are allocated in the heap and local variables are allocated in the stack.
+
+6. What is method overloading?
+Method overloading in Java is a feature that allows a class to have multiple methods with the same name
+but different parameters. The Java compiler distinguishes these methods by the number, type, and order of
+parameters. Overloading is used to provide multiple ways to call a method for different use cases, making
+code more readable and reusable.
